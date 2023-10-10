@@ -1,5 +1,5 @@
 ## Introduction
-The 3rd module for the coding bootcamp that is used to generate a password of length 8-20 using all available characters.
+The 3rd module for the coding bootcamp that is used to generate a random password of length 8-20 using all available characters.
 
 ## Installation
 
