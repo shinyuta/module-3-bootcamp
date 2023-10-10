@@ -4,7 +4,7 @@ The 3rd module for the coding bootcamp that is used to generate a password of le
 ## Installation
 
 No installation needed.
-Live located at 
+Live located at https://shinyuta.github.io/module-3-bootcamp/
 
 ## Usage
 
