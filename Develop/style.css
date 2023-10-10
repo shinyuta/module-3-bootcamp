@@ -91,12 +91,20 @@ header {
 button[disabled] {
   cursor: default;
   background: #c0c7cf;
+  color: green;
+}
+
+/* added animation to the button */
+div .btn:hover {
+  scale: 105%;
+  transition: 1s;
+  box-shadow: 0 0 20px red;
 }
 
 .float-right {
   float: right;
 }
-
+ 
 #password {
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -134,4 +142,4 @@ button[disabled] {
   .btn {
     font-size: 0.8rem;
   }
-}
+} 
